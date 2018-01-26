@@ -1,0 +1,412 @@
+<!Doctype html>
+<!--if you happen to see this line, I want to let know that this page was created at Wed Aug 21 10:34:07 CST 2013 -->
+<html lang="zh">
+<head>
+    <title>调查_2013年你的收入有增加吗？_新闻中心_新浪网</title>
+    <meta http-equiv="Content-type" content="text/html; charset=gb2312" />
+    <meta name="keywords" content="2013年你的收入有增加吗？" />
+    <meta name="description" content="2013年你的收入有增加吗？" />
+    <link rel="stylesheet" type="text/css" href="http://survey.edu.sina.com.cn/css/common.css" />
+    <link rel="stylesheet" type="text/css" href="http://ent.sina.com.cn/css/470/20130123/comment.css" />
+</head>
+<body>
+
+    <!-- Header -->
+    <div class="header">
+        <div class="top-nav center clearfix">
+            <div class="logo">
+                <a href="/list.php?dpc=1" target="_blank">新浪调查</a>
+            </div>
+            <div class="caps-nav">
+                <a href="/list.php?dpc=1" target="_blank">调查首页</a>
+                <a href="http://news.sina.com.cn" target="_blank">新闻首页</a>
+                <a href="http://www.sina.com.cn" target="_blank">新浪首页</a>
+                <a href="http://news.sina.com.cn/guide/" target="_blank" class="no-bg no-pr">新浪导航</a>
+            </div>
+            <div class="login-frame">
+                <a href="javascript:;" class="login-button" id="JS_Login_Btn">登录</a><div class="logined-wrap" id="JS_Logined_Wrap"></div><div id="JS_Login_Layer" style="display:none"></div>
+            </div>
+        </div>
+    </div>
+    <!-- ./Header -->
+
+    <!-- Main -->
+    <div class="main center">
+        <div class="main-content">
+            <!-- Content head -->
+            <div class="content-head">
+                <h2>2013年你的收入有增加吗？</h2>
+                <div class="handler clearfix">
+                    <div class="source">来源：<a href="http://news.sina.com.cn" target="_blank" class="cf29">新闻中心</a></div>
+                    <!--<div class="joiner">???人参与</div>-->
+                    <div class="status">调查进行中</div>
+                                        <div class="view-result no-bg no-pr"><a href="http://survey.news.sina.com.cn/result/84830.html" target="_blank" class="cf29">查看当前结果</a></div>
+                                    </div>
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;2013年是一个关键的年份，新一届国家领导人选举产生，在中国改革开放35周年，“中国梦”在路上，改革将再启新征程。在这个时间点回头望和向前看都是十分必要和有意义的。那么在这个关键点上，您的感受和想法是什么呢？《小康》杂志社收集您的真实想法，也将如实反映您的真实意愿。<a href="http://news.sina.com.cn/m/qiushixiaokang/" target="_blank" class="cf29">详细&gt;&gt;</a></p>
+            </div>
+            <!-- ./Content head -->
+            <!-- Content body -->
+            <div class="content-body">
+                <form name="survey_84830" action="http://survey.news.sina.com.cn/polling.php" id="JS_Survey_Form" target="_blank" method="post">
+        <dl class="item Checknull"    >
+
+                <dt>1、这一年，您的收入有增加吗？<span class="cf29"></dt>
+
+
+
+			
+									<dd><label><input  type="radio" name="q_30678" value="152574">有大幅增加</label></dd>
+						<dd><label><input  type="radio" name="q_30678" value="152576">有小幅增加</label></dd>
+						<dd><label><input  type="radio" name="q_30678" value="152578">与去年基本持平</label></dd>
+						<dd><label><input  type="radio" name="q_30678" value="152580">有小幅下降</label></dd>
+						<dd><label><input  type="radio" name="q_30678" value="152582">有大幅下降</label></dd>
+											</dl>
+		        <dl class="item Checknull"    >
+
+                <dt>2、这一年，您及您家庭的消费水平有提高吗？<span class="cf29"></dt>
+
+
+
+			
+									<dd><label><input  type="radio" name="q_30680" value="152584">有大幅提高</label></dd>
+						<dd><label><input  type="radio" name="q_30680" value="152586">有小幅提高</label></dd>
+						<dd><label><input  type="radio" name="q_30680" value="152588">与去年基本持平</label></dd>
+						<dd><label><input  type="radio" name="q_30680" value="152590">有小幅下降</label></dd>
+						<dd><label><input  type="radio" name="q_30680" value="152592">有大幅下降</label></dd>
+											</dl>
+		        <dl class="item Checknull"    >
+
+                <dt>3、这一年，您对您的住房条件满意吗？<span class="cf29"></dt>
+
+
+
+			
+									<dd><label><input  type="radio" name="q_30682" value="152594">非常满意</label></dd>
+						<dd><label><input  type="radio" name="q_30682" value="152596">比较满意</label></dd>
+						<dd><label><input  type="radio" name="q_30682" value="152598">一般</label></dd>
+						<dd><label><input  type="radio" name="q_30682" value="152600">不太满意</label></dd>
+						<dd><label><input  type="radio" name="q_30682" value="152602">很不满意</label></dd>
+											</dl>
+		        <dl class="item Checknull"    >
+
+                <dt>4、这一年，您对就医环境满意吗？<span class="cf29"></dt>
+
+
+
+			
+									<dd><label><input  type="radio" name="q_30684" value="152604">非常满意</label></dd>
+						<dd><label><input  type="radio" name="q_30684" value="152606">比较满意</label></dd>
+						<dd><label><input  type="radio" name="q_30684" value="152608">一般</label></dd>
+						<dd><label><input  type="radio" name="q_30684" value="152610">不太满意</label></dd>
+						<dd><label><input  type="radio" name="q_30684" value="152612">很不满意</label></dd>
+						<dd><label><input  type="radio" name="q_30684" value="152614">不清楚</label></dd>
+											</dl>
+		        <dl class="item Checknull"    >
+
+                <dt>5、您每周会收看几次新闻联播？<span class="cf29"></dt>
+
+
+
+			
+									<dd><label><input  type="radio" name="q_30686" value="152616">一次都不看</label></dd>
+						<dd><label><input  type="radio" name="q_30686" value="152618">1-2次</label></dd>
+						<dd><label><input  type="radio" name="q_30686" value="152620">3-4次</label></dd>
+						<dd><label><input  type="radio" name="q_30686" value="152622">5-6次</label></dd>
+						<dd><label><input  type="radio" name="q_30686" value="152624">每天都看</label></dd>
+											</dl>
+		        <dl class="item Checknull"    >
+
+                <dt>6、对于网络大V发布的微博信息，您通常会：<span class="cf29"></dt>
+
+
+
+			
+									<dd><label><input  type="radio" name="q_30688" value="152626">只是深信不疑，但不会继续传播</label></dd>
+						<dd><label><input  type="radio" name="q_30688" value="152628">不仅相信，还会转发</label></dd>
+						<dd><label><input  type="radio" name="q_30688" value="152630">不仅相信、转发，还会发表评论</label></dd>
+						<dd><label><input  type="radio" name="q_30688" value="152632">只是看看而已</label></dd>
+						<dd><label><input  type="radio" name="q_30688" value="152634">常常会质疑</label></dd>
+											</dl>
+		        <dl class="item Checknull"    >
+
+                <dt>7、您会听到周围人的抱怨吗？<span class="cf29"></dt>
+
+
+
+			
+									<dd><label><input  type="radio" name="q_30690" value="152636">经常会</label></dd>
+						<dd><label><input  type="radio" name="q_30690" value="152638">偶尔会</label></dd>
+						<dd><label><input  type="radio" name="q_30690" value="152640">不会</label></dd>
+											</dl>
+		        <dl class="item Checknull"    >
+
+                <dt>8、具体到2013年而言，在国务院批转发展改革委《关于2013年深化经济体制改革重点工作的意见》中，提出了七个今年要重点推进的改革领域，在这些领域中，您最关注的是哪个？<span class="cf29"></dt>
+
+
+
+			
+									<dd><label><input  type="radio" name="q_30692" value="152642">行政体制改革</label></dd>
+						<dd><label><input  type="radio" name="q_30692" value="152644">财税体制改革</label></dd>
+						<dd><label><input  type="radio" name="q_30692" value="152646">金融体制改革</label></dd>
+						<dd><label><input  type="radio" name="q_30692" value="152648">投融资体制改革</label></dd>
+						<dd><label><input  type="radio" name="q_30692" value="152650">资源性产品价格改革</label></dd>
+						<dd><label><input  type="radio" name="q_30692" value="152652">基本民生保障制度改革</label></dd>
+						<dd><label><input  type="radio" name="q_30692" value="152654">城镇化和统筹城乡相关改革</label></dd>
+											</dl>
+		        <dl class="item Checknull"    >
+
+                <dt>9、您觉得用哪种滋味来形容您2013年这一年的感受最为贴切？<span class="cf29"></dt>
+
+
+
+			
+									<dd><label><input  type="radio" name="q_30694" value="152656">酸</label></dd>
+						<dd><label><input  type="radio" name="q_30694" value="152658">甜</label></dd>
+						<dd><label><input  type="radio" name="q_30694" value="152660">苦</label></dd>
+						<dd><label><input  type="radio" name="q_30694" value="152662">辣</label></dd>
+						<dd><label><input  type="radio" name="q_30694" value="152664">咸</label></dd>
+						<dd><label><input  type="radio" name="q_30694" value="152666">五味混杂</label></dd>
+											</dl>
+		        <dl class="item Checknull"    >
+
+                <dt>10、您觉得用哪种色彩来形容您2013年这一年的生活状态最为贴切？<span class="cf29"></dt>
+
+
+
+			
+									<dd><label><input  type="radio" name="q_30696" value="152668">红</label></dd>
+						<dd><label><input  type="radio" name="q_30696" value="152670">黄</label></dd>
+						<dd><label><input  type="radio" name="q_30696" value="152672">蓝</label></dd>
+						<dd><label><input  type="radio" name="q_30696" value="152674">绿</label></dd>
+						<dd><label><input  type="radio" name="q_30696" value="152676">粉</label></dd>
+						<dd><label><input  type="radio" name="q_30696" value="152678">黑</label></dd>
+						<dd><label><input  type="radio" name="q_30696" value="152680">白</label></dd>
+						<dd><label><input  type="radio" name="q_30696" value="152682">五颜六色</label></dd>
+						<dd><label><input  type="radio" name="q_30696" value="152684">其他</label></dd>
+						<dd><label><input  type="radio" name="q_30696" value="152746">灰</label></dd>
+											</dl>
+		        <dl class="item Checknull"    >
+
+                <dt>11、您的性别：<span class="cf29"></dt>
+
+
+
+			
+									<dd><label><input  type="radio" name="q_30698" value="152686">男</label></dd>
+						<dd><label><input  type="radio" name="q_30698" value="152688">女</label></dd>
+											</dl>
+		        <dl class="item Checknull"    >
+
+                <dt>12、您属于哪个年龄段：<span class="cf29"></dt>
+
+
+
+			
+									<dd><label><input  type="radio" name="q_30700" value="152690">90后</label></dd>
+						<dd><label><input  type="radio" name="q_30700" value="152692">80后</label></dd>
+						<dd><label><input  type="radio" name="q_30700" value="152694">70后</label></dd>
+						<dd><label><input  type="radio" name="q_30700" value="152696">60后</label></dd>
+						<dd><label><input  type="radio" name="q_30700" value="152698">50后</label></dd>
+											</dl>
+		        <dl class="item Checknull"    >
+
+                <dt>13、您所在的单位性质：<span class="cf29"></dt>
+
+
+
+			
+									<dd><label><input  type="radio" name="q_30702" value="152700">国家机关</label></dd>
+						<dd><label><input  type="radio" name="q_30702" value="152702">事业单位</label></dd>
+						<dd><label><input  type="radio" name="q_30702" value="152704">国有企业</label></dd>
+						<dd><label><input  type="radio" name="q_30702" value="152706">民营企业</label></dd>
+						<dd><label><input  type="radio" name="q_30702" value="152708">合资和外资企业</label></dd>
+						<dd><label><input  type="radio" name="q_30702" value="152710">自主创业</label></dd>
+						<dd><label><input  type="radio" name="q_30702" value="152712">其他</label></dd>
+						<dd><label><input  type="radio" name="q_30702" value="152714">正在上学或没有工作</label></dd>
+											</dl>
+		        <dl class="item Checknull"    >
+
+                <dt>14、您的受教育程度：<span class="cf29"></dt>
+
+
+
+			
+									<dd><label><input  type="radio" name="q_30704" value="152716">初中及以下</label></dd>
+						<dd><label><input  type="radio" name="q_30704" value="152718">高中/中专/职高</label></dd>
+						<dd><label><input  type="radio" name="q_30704" value="152720">大专</label></dd>
+						<dd><label><input  type="radio" name="q_30704" value="152722">大学本科</label></dd>
+						<dd><label><input  type="radio" name="q_30704" value="152724">研究生及以上</label></dd>
+											</dl>
+		        <dl class="item Checknull"    >
+
+                <dt>15、您的月收入水平：<span class="cf29"></dt>
+
+
+
+			
+									<dd><label><input  type="radio" name="q_30706" value="152726">1500元以下</label></dd>
+						<dd><label><input  type="radio" name="q_30706" value="152728">1500～3000元</label></dd>
+						<dd><label><input  type="radio" name="q_30706" value="152730">3000～6000元</label></dd>
+						<dd><label><input  type="radio" name="q_30706" value="152732">6000～8000元</label></dd>
+						<dd><label><input  type="radio" name="q_30706" value="152734">8000～10000元</label></dd>
+						<dd><label><input  type="radio" name="q_30706" value="152736">10000元以上</label></dd>
+											</dl>
+		        <dl class="item Checknull"    >
+
+                <dt>16、您的所在区域：<span class="cf29"></dt>
+
+
+
+			
+									<dd><label><input  type="radio" name="q_30708" value="152738">东部</label></dd>
+						<dd><label><input  type="radio" name="q_30708" value="152740">中部</label></dd>
+						<dd><label><input  type="radio" name="q_30708" value="152742">西部</label></dd>
+											</dl>
+		                    <!-- author-info start -->
+                                        <!-- author-info end -->
+
+                                        <em class="login-tips" id="JS_Submit_Tips" style="display:none;" >您还未登录，该调查需要<a href="javascript:;" id="JS_Submit_Login">登录</a>后参与。</em>
+                                        <div class="submit-area-wrap clearfix">
+                        <div class="submit-area clearfix">
+
+                                                        <input type="hidden" name="poll_id" value="84830">
+                            <a href="javascript:;" id="JS_Survey_Submit" class="submit-button">提交</a>
+                            <span id="JS_Survey_Submit_Unlogin" class="end-status"  style="display:none">提交</span>
+                            <span id="JS_Survey_Joined" class="end-status" style="display:none">已参与</span>
+                            
+                                                                                    <!--11-->
+                                                                                         <a href="http://survey.news.sina.com.cn/result/84830.html" target="_blank" class="view-result">查看结果</a>
+                                                                                     </div>
+                        <div class="share">
+                            <span style="float:left;padding-right:5px;">分享到 </span>
+                            <div style="float:left;overflow:hidden;height:18px;" class="bshare-custom"><div class="bsPromo bsPromo2"></div><a href="javascript:void(0);" class="bshare-sinaminiblog" title="分享到新浪微博"></a><a class="bshare-more bshare-more-icon more-style-addthis" title="更多平台"></a></div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <!-- ./Content body -->
+        </div>
+        <!-- Commnet -->
+        <div id="J_Comment_Wrap" class="blkContainerCommentblk">请稍候，评论加载中...</div>
+        <!-- ./Comment -->
+    </div>
+    <!-- ./Main -->
+
+    <!-- Footer -->
+    <div class="footer-wrap">
+        <div class="footer center">
+            <p><a target="_blank" href="http://news.sina.com.cn/guest.html">新闻中心意见反馈留言板</a>&#12288;电话：010-82612286&#12288;&#12288;欢迎批评指正</p>
+            <p><a href="http://corp.sina.com.cn/chn/">新浪简介</a> | <a href="http://corp.sina.com.cn/eng/">About Sina</a> | <a href="http://ads.sina.com.cn/">广告服务</a> | <a href="http://www.sina.com.cn/contactus.html">联系我们</a> | <a href="http://corp.sina.com.cn/chn/sina_job.html">招聘信息</a> | <a href="http://www.sina.com.cn/intro/lawfirm.shtml">网站律师</a> | <a href="http://english.sina.com">SINA English</a> | <a href="https://login.sina.com.cn/cgi/register/reg_sso.php">会员注册</a> | <a href="http://tech.sina.com.cn/focus/sinahelp.shtml">产品答疑</a></p>
+            <p>Copyright &copy; 1996-2013 SINA Corporation, All Rights Reserved</p>
+            <p>新浪公司 <a href="http://www.sina.com.cn/intro/copyright.shtml">版权所有</a></p>
+        </div>
+    </div>
+    <!-- ./Footer -->
+</body>
+
+
+
+<script type="text/javascript">
+    // jsLoader
+    eval(function(p,a,c,k,e,r){e=function(c){return(c<62?'':e(parseInt(c/62)))+((c=c%62)>35?String.fromCharCode(c+29):c.toString(36))};if('0'.replace(0,e)==0){while(c--)r[e(c)]=k[c];k=[function(e){return r[e]||e}];e=function(){return'[4-9abfgj-vx-zA-R]'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('(9(){b w=g,d=document,u=\'1.1.0\',7={},j=0,cbkLen=0;5(w.k){5(w.k.u>=u){o};7=w.k.K();j=7.j};b addEvent=9(x,B,C){5(x.L){x.L("on"+B,C)}m{x.addEventListener(B,C,false)}};9 M(a,D,s){b l=d.createElement("script");l.type="text/javascript";5(s){l.s=s};l.N=l.y=9(){5(!g.E||g.E=="loaded"||g.E=="complete"){5(D){D()};l.N=l.y=null;l.parentNode.removeChild(l)}};l.src=a;b h=d.getElementsByTagName("head")[0];h.insertBefore(l,h.firstChild)};b v=9(4,a){g.4=4;g.a=a;g.6=[]};v.prototype={f:\'O\',y:9(){g.f=\'F\';b z=[];P(b i=0;i<g.6.j;i++){5(n g.6[i]==\'9\'){try{g.6[i]()}catch(e){z.A(e)}}};g.6=[];5(z.j!=0){throw z[0]}}};b k=9(q,t){b 8={};5(p.j==3){8.4=p[0];8.a=p[1];8.6=p[2]}m 5(n q===\'Q\'){8.a=q;5(n t===\'9\'){8.6=t}}m{8=q};b a=8.a||"",4=8.4||"",6=8.6||"",s=8.s||"";b r={4:4,k:9(q,t){b agms=p;b 8={};5(p.j==3){8.4=p[0];8.a=p[1];8.6=p[2]}m 5(n q===\'Q\'){8.a=q;5(n t===\'9\'){8.6=t}}m{8=q};5(!8.4){8.4=\'R\'+j;j++};b c=k({4:g.4,6:9(){k(8)}});c.4=8.4;o c}};5(4){5(!7[4]){5(!a){7[4]=G v(4);7[4].f=\'H\'}m{7[4]=G v(4,a)};j++}m 5(7[4].f==\'H\'&&a){7[4].f=\'O\'};5(8.f){7[4].f=8.f};5(7[4].f==\'I\'||7[4].f==\'H\'){5(n 6==\'9\'){7[4].6.A(6)};o r}m 5(7[4].f==\'F\'){5(n 6==\'9\'){6()};o r}}m{5(!a){o r};P(b J in 7){5(7[J].a==a){4=J;break}};5(!4){4=\'R\'+j;7[4]=G v(4,a);j++};r.4=4;5(7[4].f==\'I\'){5(n 6==\'9\'){7[4].6.A(6)};o r}m 5(7[4].f==\'F\'){5(n 6==\'9\'){6()};o r}};5(n 6==\'9\'){7[4].6.A(6)};M(a,9(){7[4].y()},s);7[4].f=\'I\';o r};w.k=k;w.k.u=u;w.k.K=9(){o 7}})();',[],54,'||||name|if|callback|data|cfg|function|url|var||||status|this|||length|jsLoader|scriptNode|else|typeof|return|arguments|op|chain|charset|fn|version|JsObj||obj|onload|errors|push|eventType|func|dispose|readyState|ok|new|waiting|loading|item|getData|attachEvent|getScript|onreadystatechange|init|for|string|noname'.split('|'),0,{}))
+</script>
+<script type="text/javascript">
+    window.$CONFIG = {
+        NeedLogin : true
+    }
+    window.$FILE_PATH = {
+        CORE : '../../build/survey.asy.home.js?new_cq'
+    }
+</script>
+<script type="text/javascript">
+    /**
+     * 全局数据
+     * video_url 视频链接
+     * channel 频道
+     * newsid 新闻id
+     * group 默认为0
+     */
+    var ARTICLE_DATA = {
+        //评论微博转发视频地址
+        video_url:'',
+        //评论微博转发图片地址，可置空会自动取图
+        pic_url:'',
+
+        //频道
+        channel:'survey',
+        //新闻id
+
+        newsid:'survey_group_84830',
+
+        //组，默认为0
+
+        group:1,
+        //微博转发参数
+        source: '',
+        sourceUrl: '',
+        uid: '',
+        commonFaces:{},
+        autoLogin:1,
+        cmntFix:0,
+        channelId: 0,
+        //1滚动到底部自动加载，0点击更多加载
+        scrollLoad:0,
+        width:950,
+        // inputWidth:65,
+        sharePopDirection:'top',
+        // 高清图在切换过程中，评论参数修改
+        customNewsId:'',
+        customShareUrl:'',
+        customImgUrl:''
+      };
+</script>
+
+
+<script type="text/javascript">
+    // jsLoader
+    eval(function(p,a,c,k,e,r){e=function(c){return(c<62?'':e(parseInt(c/62)))+((c=c%62)>35?String.fromCharCode(c+29):c.toString(36))};if('0'.replace(0,e)==0){while(c--)r[e(c)]=k[c];k=[function(e){return r[e]||e}];e=function(){return'[4-9abfgj-vx-zA-R]'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('(9(){b w=g,d=document,u=\'1.1.0\',7={},j=0,cbkLen=0;5(w.k){5(w.k.u>=u){o};7=w.k.K();j=7.j};b addEvent=9(x,B,C){5(x.L){x.L("on"+B,C)}m{x.addEventListener(B,C,false)}};9 M(a,D,s){b l=d.createElement("script");l.type="text/javascript";5(s){l.s=s};l.N=l.y=9(){5(!g.E||g.E=="loaded"||g.E=="complete"){5(D){D()};l.N=l.y=null;l.parentNode.removeChild(l)}};l.src=a;b h=d.getElementsByTagName("head")[0];h.insertBefore(l,h.firstChild)};b v=9(4,a){g.4=4;g.a=a;g.6=[]};v.prototype={f:\'O\',y:9(){g.f=\'F\';b z=[];P(b i=0;i<g.6.j;i++){5(n g.6[i]==\'9\'){try{g.6[i]()}catch(e){z.A(e)}}};g.6=[];5(z.j!=0){throw z[0]}}};b k=9(q,t){b 8={};5(p.j==3){8.4=p[0];8.a=p[1];8.6=p[2]}m 5(n q===\'Q\'){8.a=q;5(n t===\'9\'){8.6=t}}m{8=q};b a=8.a||"",4=8.4||"",6=8.6||"",s=8.s||"";b r={4:4,k:9(q,t){b agms=p;b 8={};5(p.j==3){8.4=p[0];8.a=p[1];8.6=p[2]}m 5(n q===\'Q\'){8.a=q;5(n t===\'9\'){8.6=t}}m{8=q};5(!8.4){8.4=\'R\'+j;j++};b c=k({4:g.4,6:9(){k(8)}});c.4=8.4;o c}};5(4){5(!7[4]){5(!a){7[4]=G v(4);7[4].f=\'H\'}m{7[4]=G v(4,a)};j++}m 5(7[4].f==\'H\'&&a){7[4].f=\'O\'};5(8.f){7[4].f=8.f};5(7[4].f==\'I\'||7[4].f==\'H\'){5(n 6==\'9\'){7[4].6.A(6)};o r}m 5(7[4].f==\'F\'){5(n 6==\'9\'){6()};o r}}m{5(!a){o r};P(b J in 7){5(7[J].a==a){4=J;break}};5(!4){4=\'R\'+j;7[4]=G v(4,a);j++};r.4=4;5(7[4].f==\'I\'){5(n 6==\'9\'){7[4].6.A(6)};o r}m 5(7[4].f==\'F\'){5(n 6==\'9\'){6()};o r}};5(n 6==\'9\'){7[4].6.A(6)};M(a,9(){7[4].y()},s);7[4].f=\'I\';o r};w.k=k;w.k.u=u;w.k.K=9(){o 7}})();',[],54,'||||name|if|callback|data|cfg|function|url|var||||status|this|||length|jsLoader|scriptNode|else|typeof|return|arguments|op|chain|charset|fn|version|JsObj||obj|onload|errors|push|eventType|func|dispose|readyState|ok|new|waiting|loading|item|getData|attachEvent|getScript|onreadystatechange|init|for|string|noname'.split('|'),0,{}))
+</script>
+<script type="text/javascript">
+    window.$CONFIG = {
+
+        NeedLogin : true
+    }
+    window.$FILE_PATH = {
+        CORE : '/js/build/survey.asy.home.js?new_cq'
+    }
+</script>
+<script language='javascript' charset='utf-8' src='http://i.sso.sina.com.cn/js/ssologin.js'></script>
+<script type="text/javascript" src="http://i.sso.sina.com.cn/js/user_panel.js" charset="utf-8"></script>
+<script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid={*$channel_conf.uuid*}&amp;pophcol=2&amp;lang=zh"></script>
+<script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script>
+<script type="text/javascript" src="/js/build/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="/js/build/article-common.js"></script>
+<script type="text/javascript" src="/js/build/survey.syn.js"></script>
+<script type="text/javascript">
+    window.bShare.addEntry({
+        title: '',
+
+        url: 'http://survey.news.sina.com.cn/survey.php?id=84830',
+        summary: '欢迎参与新浪调查《2013年你的收入有增加吗？》（@微调查)'
+
+    });
+</script>
+<script type="text/javascript">
+    jsLoader($FILE_PATH.CORE);
+</script>
+
+
+<!-- SUDA_CODE_START -->
+<script type="text/javascript" src="http://www.sinaimg.cn/unipro/pub/suda_s_v851c.js"></script>
+<script type="text/javascript" >
+//<!--
+_S_pSt("");
+//-->
+</script>
+<noScript>
+<div style='position:absolute;top:0;left:0;width:0;height:0;visibility:hidden'><img width=0 height=0 src='http://beacon.sina.com.cn/a.gif?noScript' border='0' alt='' /></div>
+</noScript>
+<!-- SUDA_CODE_END -->
+
+</html>
+<!--360-->
